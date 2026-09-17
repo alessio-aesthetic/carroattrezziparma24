@@ -1,7 +1,7 @@
 {
   "city": "Parma",
   "domain": "carroattrezziparma24.it",
-  "brand": "DUCALE RECUPERI",
+  "brand": "Ducale Recuperi",
   "phone": null,
   "address": null,
   "email": "assistenza@carroattrezziparma24.it",
@@ -14,5 +14,12 @@
     "Sorbolo Mezzani"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "heritage"
+  "theme": "heritage",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Firma corsiva, corona aperta e filetto dorato da carrozzeria storica.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
