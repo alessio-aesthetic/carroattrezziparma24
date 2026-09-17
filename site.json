@@ -1,0 +1,18 @@
+{
+  "city": "Parma",
+  "domain": "carroattrezziparma24.it",
+  "brand": "DUCALE RECUPERI",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezziparma24.it",
+  "nearby": [
+    "Collecchio",
+    "Noceto",
+    "Felino",
+    "Sala Baganza",
+    "Torrile",
+    "Sorbolo Mezzani"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "heritage"
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://carroattrezziparma24.it/sitemap.xml
